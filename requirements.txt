@@ -1,0 +1,9 @@
+flask
+python-dotenv
+groq
+cohere
+requests
+langgraph
+docxtpl
+sentence-transformers
+streamlit
